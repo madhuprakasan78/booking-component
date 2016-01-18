@@ -1,0 +1,26 @@
+{
+  "name": "booking-directive",
+  "description": "demo component",
+  "main": "directive.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "book"
+  ],
+  "authors": [
+    "madhu prakasan"
+  ],
+  "license": "MIT",
+  "homepage": "www.emirates.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
